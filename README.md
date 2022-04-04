@@ -10,7 +10,7 @@
 
 |項目|詳細|
 |:-----|:-------------------------------|
-|Name|村越 政則（Masanori Murakoshi）|
+|Name|Masanori Murakoshi|
 |Language|Python, Javascript/TypeScript, COBOL, C/C++, Assembly, Java, HTML/CSS|
 |FW|Vue.js, Django, Flask, React.js, Bottle|
 |DB|MySQL, PostgreSQL, XDM, SQL Server|
@@ -18,12 +18,13 @@
 
 ## 経歴
 
-生保系SIerとして２年間基本設計〜リリースまで一通り経験を積み、
+生保系SIerとして２年間基本設計〜リリースまでを担当（小規模～中規模案件レベルでメインは製造・テスト）、
 
-ベンチャー企業にてHR系SaaSのエンジニアとして事業立ち上げを経験。
+ベンチャー企業にてHR系SaaSのエンジニアとして事業立ち上げなどを経験し、現在はフリーのエンジニアとして細々と活動しております。
 
-現在興味のある技術領域はClean Architecture、DDD、Webassemblyなど。
+現在興味のある技術領域はDDD、Webassemblyなどに興味あります。
 
 ## リンク
 
 Qiita - https://qiita.com/masa0209
+Wantedly - https://www.wantedly.com/id/masa0209

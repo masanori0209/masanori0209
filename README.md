@@ -1,4 +1,21 @@
-## プロフィール
+## Profile
+
+<p align="left">
+  <a href="https://github.com/masanori0209/masanori0209/">
+    <img src="https://komarev.com/ghpvc/?username=masanori0209" alt="masanori0209" />
+  </a>
+  <a href="https://github.com/masanori0209">
+    <img height="20" src="https://img.shields.io/github/followers/masanori0209?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/masanori0209">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/masa0209/posts.svg" />
+  </a>
+  <a href="https://qiita.com/masanori0209">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/masa0209/contributions.svg" />
+  </a>
+</p>
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="168" align="center" src="https://github-readme-stats.vercel.app/api?username=masanori0209&show_icons=true&count_private=true&theme=prussian" />
@@ -8,7 +25,7 @@
 </a>
 <br/><br/>
 
-|項目|詳細|
+|Title|Desctiption|
 |:-----|:-------------------------------|
 |Name|Masanori Murakoshi|
 |Language|Python, Javascript/TypeScript, COBOL, C/C++, Assembly, Java, HTML/CSS|

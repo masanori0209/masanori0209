@@ -15,14 +15,6 @@
   </a>
 </p>
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="168" align="center" src="https://github-readme-stats-nmbphpm3s-masanori0209.vercel.app/api?username=masanori0209&show_icons=true&count_private=true&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="168" align="center" src="https://github-readme-stats-nmbphpm3s-masanori0209.vercel.app/api/top-langs/?username=masanori0209&layout=compact&count_private=true&theme=prussian" />
-</a>
 <br/><br/>
 
 |Title|Desctiption|

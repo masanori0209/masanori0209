@@ -65,9 +65,3 @@
 - [Wantedly](https://www.wantedly.com/id/masa0209)
 - [Zenn](https://zenn.dev/m2lab)
 - [Lapras](https://lapras.com/public/M0209)
-
----
-
-## 📊 Stats
-
-[![Lapras Profile](https://lapras-card-generator.vercel.app/api/svg?e=3.8&b=3.5&i=3.0&l=ja)](https://lapras.com/public/M0209)

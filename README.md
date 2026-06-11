@@ -35,10 +35,10 @@
 | 項目 | 内容 |
 |:--|:--|
 | **Name** | Masanori Murakoshi |
-| **Languages** | Python / JavaScript / TypeScript / COBOL / C / C++ / Assembly / Java / HTML / CSS |
-| **Frameworks** | Vue.js / Django / Flask / React / Bottle |
+| **Languages** | Python / JavaScript / TypeScript / Rust / COBOL / C / C++ / C# / Assembly / Java / HTML / CSS |
+| **Frameworks** | Vue.js / Django / React / Next.js / Flask / Bottle |
 | **Databases** | MySQL / PostgreSQL / SQL Server / XDM |
-| **Tools & Platforms** | GitHub / Docker / Kubernetes / GCP (GKE, GCE, GAE, Cloud SQL, Cloud Build) / AWS (Lambda, EC2, RDS) |
+| **Tools & Platforms** | GitHub / Docker / Kubernetes / GCP (GKE, GCE, GAE, Cloud SQL, Cloud Build) / AWS (Lambda, ECS/EKS. API Gateway, EC2, RDS) |
 
 ---
 
